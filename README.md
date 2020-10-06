@@ -1,6 +1,6 @@
 ![3dpointify](/3dpointify.gif)
 
-I'm a furry content creator and game dev. I'm also into open source software. :P
+I'm a furry, content creator and game dev. I'm also into open source software. :P
 
 - Working on: 👀
 - Languages: Spanish (native) and English
