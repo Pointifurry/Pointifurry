@@ -5,7 +5,7 @@ I'm a furry, content creator and game dev. I'm also into open source software. :
 - Working on: 👀
 - Languages: Spanish (native) and English
 
-You can reach me out on:
+You can hit me up on:
 - [Twitter](https://twitter.com/PointifyOK)
 - [Librem One](https://social.librem.one/@pointify)
 - [Email](mailto:pointifyy@zohomail.com)
