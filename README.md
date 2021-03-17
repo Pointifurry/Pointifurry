@@ -3,7 +3,7 @@
 I'm a content creator, furry and game dev. I'm also into open source software. :P
 
 - Working on: 👀
-- Languages: Spanish (native) and English
+- Languages: English, Spanish (Native), French (Very Scarce)
 
 You can hit me up on:
 - [Twitter](https://twitter.com/Pointifurry)
